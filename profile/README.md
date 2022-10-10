@@ -10,3 +10,8 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+[Tai Studio](https://tai-studio.netlify.app)
+|
+[AnimeBack](https://animeback-tai-studio.netlify.app/)
+|
+[Sofia](https://github.com/TaiStudio/Sofia)
