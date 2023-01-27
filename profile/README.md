@@ -20,4 +20,4 @@
 |
 [Asterius](https://lyna.netlify.app/asterius)
 |
-[Trenton]https://trenton.netlify.app/)
+[Trenton](https://trenton.netlify.app/)
