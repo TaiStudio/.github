@@ -14,6 +14,8 @@
 |
 [AnimeBack](https://animeback-tai-studio.netlify.app/)
 |
+[Timer](https://timer-taistudio.netlify.app/)
+|
 [Sofia](https://github.com/TaiStudio/Sofia)
 |
 [Lyna](https://lyna.netlify.app/)
