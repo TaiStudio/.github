@@ -10,16 +10,16 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-[Tai Studio](https://tai-studio.netlify.app)
+[Tai Studio](https://taistudio.fr)
 |
-[AnimeBack](https://animeback-tai-studio.netlify.app/)
+[AnimeBack](https://animeback.taistudio.fr)
 |
-[Timer](https://timer-taistudio.netlify.app/)
+[Timer](https://timer.taistudio.fr)
 |
 [Sofia](https://github.com/TaiStudio/Sofia)
 |
-[Lyna](https://lyna.netlify.app/)
+[Lyna](https://lyna.taistudio.fr)
 |
-[Asterius](https://lyna.netlify.app/asterius)
+[Asterius](https://lyna.taistudio.fr/asterius)
 |
-[Trenton](https://trenton.netlify.app/)
+[Trenton](https://trenton.taistudio.fr)
